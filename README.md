@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @khlanwar
-- 👀 I’m interested in mobile development
-- 🌱 I’m currently learning kotlin and dart
+- 👀 I’m interested in web and mobile development
+- 🌱 I’m currently learning kotlin and php
 - 📫 How to reach me @khairulanw
